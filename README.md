@@ -1,2 +1,2 @@
 # Guide-Website.github.io
-Website project
+Website project (assignment page)
